@@ -3,7 +3,7 @@ A front-end application which would help users list and browse all launches by S
 
 ## Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
+SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-programs-nandini.netlify.app/)
 
 
 ## UI And Filter Implementation
